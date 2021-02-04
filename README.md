@@ -6,5 +6,6 @@
 
 ## 📁 Layout:
 ```
-Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1).
+Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/9bUM0ZS9hzXS9eh9VMXEbc/resume?node-id=0%3A1).
+
 ```
