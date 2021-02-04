@@ -1,0 +1,28 @@
+{
+  "name": "curriculum",
+  "version": "1.0.0",
+  "description": "![Welcome](/curriculo.png?raw=true)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoFullStack/Curriculum.png.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoFullStack/Curriculum.png/issues"
+  },
+  "homepage": "https://github.com/ThiagoFullStack/Curriculum.png#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "qrcode-svg": "^1.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
