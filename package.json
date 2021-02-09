@@ -1,5 +1,5 @@
 {
-  "name": "curriculum",
+  "name": "curriculum-qrcode",
   "version": "1.0.0",
   "description": "![Welcome](/curriculo.png?raw=true)",
   "main": "index.js",
