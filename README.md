@@ -1,7 +1,8 @@
 # 📝 Curriculum
 
 ![Welcome](/curriculo.png?raw=true)
-[![My Website](https://curriculum-th.vercel.app/api?url=https%3A%2F%2Fgithub.com%2FThiagoFullStack%2FCurriculum.png)](https://raw.githubusercontent.com/ThiagoFullStack/Curriculum.png/main/curriculo.png)
+
+[![My Website](https://curriculum-th.vercel.app/api?url=https://qr-code-currl.vercel.app/api?url=https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1)](https://qr-code-currl.vercel.app/api?url=https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1)
 
 [![HitCount](https://hits.dwyl.com/ThiagoFullStack//Curriculum.svg)](https://qr-code-currl.vercel.app/api?url=https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1)
 
