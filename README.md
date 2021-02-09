@@ -9,5 +9,5 @@
 
 ## 📁 Layout:
 
-Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://qr-code-currl.vercel.app/api?url=https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1).
+Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1).
 
