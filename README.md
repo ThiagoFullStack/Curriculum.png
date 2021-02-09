@@ -1,6 +1,7 @@
 # 📝 Curriculum
 
 ![Welcome](/curriculo.png?raw=true)
+![Welcome](/curriculo.png?raw=true)
 
 [![My Website](https://curriculum-th.vercel.app/api?url=https://qr-code-currl.vercel.app/api?url=https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1)](https://qr-code-currl.vercel.app/api?url=https://www.figma.com/file/tnR5qeYy5AcLC65AvMs56p/Untitled?node-id=0%3A1)
 
